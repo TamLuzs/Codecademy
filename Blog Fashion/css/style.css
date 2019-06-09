@@ -1,0 +1,55 @@
+       body {
+        background-color: #FFEBEF;
+        border-style: none;
+        background-image: url(../img/wallpaper.gif);
+        background-position: center;
+        }         
+      
+      h1 {
+          text-align: center;
+          font-size: 50px
+          font-family:;
+      }
+
+      .Content {
+        background-color: #ffd2db;
+        text-align: center;
+        left: 20px; 
+        right: 09px;
+        padding: 20px;
+        margin: 0 auto;
+      }
+
+      .separar{
+        border-top: solid white 5px;
+      }
+
+      li{
+        margin-left: 40%; 
+        margin-right: 30%;
+        text-align: left;       
+      }
+
+      #contact{    
+        background: #ffd2db;
+        border-top: solid white 5px
+        } 
+
+      .rodape{
+        margin: auto;
+        border-top: solid white 5px;
+        background: white;
+        border-bottom: solid white 5px;
+      }
+
+      img {
+        border-radius: 100%;
+        width: 180px; 
+      }
+
+      h3.publish-time{
+        text-align: center; 
+        color:black;  
+        background: white;
+        border-bottom: solid white 1px;
+      }
