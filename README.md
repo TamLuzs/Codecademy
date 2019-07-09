@@ -1,5 +1,8 @@
 # Projetos da plataforma Codecademy
-Têm como objetivo mostra de forma prática tudo o que foi aprendido durante o curso relacionado a desenvolvimento Web. 
+![codecademy](https://user-images.githubusercontent.com/48417347/60915574-84cc7f80-a262-11e9-90f5-1aaf021a3f51.png)
+
+# Objetivo: 
+Exibir de forma prática tudo o que foi aprendido durante o curso relacionado a desenvolvimento Web.
 
 # Lista de Projeto:
 - Agenda do Festival do Vinho
@@ -17,9 +20,9 @@ Têm como objetivo mostra de forma prática tudo o que foi aprendido durante o c
 
 <b>Obs:</b>  </br>
 A lista de projetos foi inserida de forma aleatória. <br/>
-A maioria dos projetos á parte do CSS foi feito sem auxílio do curso. 
+A maioria dos projetos a parte do CSS foi feito sem auxílio do curso. 
 
 
-# Referencia 
-Plataforma: https://www.codecademy.com/ <br/>
-Meu perfil: https://www.codecademy.com/TLuziaS
+# Referencia: 
+Plataforma = https://www.codecademy.com/ <br/>
+Meu perfil = https://www.codecademy.com/TLuziaS
