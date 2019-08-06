@@ -1,0 +1,6 @@
+Agenda do Festival do Vinho
+PROJETO
+É hora de aumentar a fluência nas tabelas HTML. Neste próximo Pro Project, vamos praticar a organização tabular em HTML para que você possa aprimorar suas habilidades e se sentir confiante em levá-las ao mundo real. Por que? Se você vai ter dados em uma página da Web, você precisa dominar a habilidade de organizá-la de forma eficaz e estética - uma tabela HTML é a solução perfeita. O que vem depois? Copos de vinho, pratos de queijo, mesas HTML. Você tem isso!
+
+
+https://s3.amazonaws.com/codecademy-content/courses/learn-html-tables/index.html
