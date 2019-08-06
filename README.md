@@ -15,6 +15,10 @@ Exibir de forma prática tudo o que foi aprendido durante o curso relacionado a 
 - Sprout
 - The terminal - Your Source for Fact-Based News
 - Tundra Gallery
+- Ollie Bike
+- Skillfair
+- Typography Blog
+
 
 
 
