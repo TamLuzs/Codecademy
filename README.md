@@ -1,32 +1,36 @@
-# Projetos da plataforma Codecademy
-![codecademy](https://user-images.githubusercontent.com/48417347/60915574-84cc7f80-a262-11e9-90f5-1aaf021a3f51.png)
+<!-- Descrição: Praticando CSS3 e HTML5 do Zero. -->
 
-# Objetivo: 
+# Projetos da plataforma Codecademy
+![](https://user-images.githubusercontent.com/48417347/60915574-84cc7f80-a262-11e9-90f5-1aaf021a3f51.png)
+
+------------
+
+### Objetivo:
 Exibir de forma prática tudo o que foi aprendido durante o curso relacionado a desenvolvimento Web.
 
-# Lista de Projeto:
-- Agenda do Festival do Vinho
-- Blog Fashion
-- Brown Bears <br/>
-<b> Versão:</b> <br/>
-0.1 = Iniciando estilização com CSS <br/>
-0.2 = Com alterações no CSS
-- Search The Table
-- Sprout
-- The terminal - Your Source for Fact-Based News
-- Tundra Gallery
-- Ollie Bike
-- Skillfair
-- Typography Blog
+### Lista de Projeto:
+- Agenda do Festival do Vinho;
+- Blog Fashion;
+- Brown Bears
+--- **Versão:**
+-- v1: Iniciando estilização com CSS
+-- v2: Com alterações no CSS
+- Search The Table;
+- Sprout;
+- The terminal - Your Source for Fact-Based News;
+- Tundra Gallery;
+- Ollie Bike;
+- Skillfair;
+- Typography Blog.
 
+**Observação:**
+A lista de projetos foi inserida de forma aleatória.
+A maioria dos projetos a parte do CSS foi feito sem auxílio do curso.
 
+### Ferramentas/Codificação Utilizadas:
+- HTML5 e CSS3;
+- VsCode.
 
-
-<b>Obs:</b>  </br>
-A lista de projetos foi inserida de forma aleatória. <br/>
-A maioria dos projetos a parte do CSS foi feito sem auxílio do curso. 
-
-
-# Referencia: 
-Plataforma = https://www.codecademy.com/ <br/>
+### Referencia:
+Plataforma = https://www.codecademy.com/
 Meu perfil = https://www.codecademy.com/TLuziaS
