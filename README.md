@@ -1,4 +1,4 @@
-# Projetos da plataforma Codecademy
+# Projetos da Plataforma Codecademy
 ![](https://user-images.githubusercontent.com/48417347/60915574-84cc7f80-a262-11e9-90f5-1aaf021a3f51.png)
 ------------
 
@@ -8,9 +8,9 @@ Exibir de forma prática tudo o que foi aprendido durante o curso relacionado a 
 ### Lista de Projeto:
 - Agenda do Festival do Vinho;
 - Blog Fashion;
-- Brown Bears
---- **Versão:**
--- v1: Iniciando estilização com CSS
+- Brown Bears <br>
+--- **Versão:**  <br>
+-- v1: Iniciando estilização com CSS <br>
 -- v2: Com alterações no CSS
 - Search The Table;
 - Sprout;
@@ -29,5 +29,5 @@ A maioria dos projetos a parte do CSS foi feito sem auxílio do curso.
 - VsCode.
 
 ### Referencia:
-Plataforma = https://www.codecademy.com/
+Plataforma = https://www.codecademy.com/ <br>
 Meu perfil = https://www.codecademy.com/TLuziaS
