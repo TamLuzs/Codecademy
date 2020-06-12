@@ -1,8 +1,5 @@
-<!-- Descrição: Praticando CSS3 e HTML5 do Zero. -->
-
 # Projetos da plataforma Codecademy
 ![](https://user-images.githubusercontent.com/48417347/60915574-84cc7f80-a262-11e9-90f5-1aaf021a3f51.png)
-
 ------------
 
 ### Objetivo:
