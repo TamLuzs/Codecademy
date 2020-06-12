@@ -11,7 +11,7 @@ Exibir de forma prática tudo o que foi aprendido durante o curso relacionado a 
 - Brown Bears <br>
 --- **Versão:**  <br>
 -- v1: Iniciando estilização com CSS <br>
--- v2: Com alterações no CSS
+-- v2: Alterações no CSS
 - Search The Table;
 - Sprout;
 - The terminal - Your Source for Fact-Based News;
@@ -20,8 +20,8 @@ Exibir de forma prática tudo o que foi aprendido durante o curso relacionado a 
 - Skillfair;
 - Typography Blog.
 
-**Observação:**
-A lista de projetos foi inserida de forma aleatória.
+**Observação:**<br>
+A lista de projetos foi inserida de forma aleatória.<br>
 A maioria dos projetos a parte do CSS foi feito sem auxílio do curso.
 
 ### Ferramentas/Codificação Utilizadas:
