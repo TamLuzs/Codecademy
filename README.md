@@ -28,6 +28,5 @@ A maioria dos projetos a parte do CSS foi feito sem auxílio do curso.
 - HTML5 e CSS3;
 - VsCode.
 
-### Referencia:
+### Base de Apoio:
 Plataforma = https://www.codecademy.com/ <br>
-Meu perfil = https://www.codecademy.com/TLuziaS
