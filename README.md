@@ -6,11 +6,15 @@
 ## Introdução/Objetivo
 Esse repositório é referente todos os projetos desenvolvido no curso relacionando à programação Web.
 
-### 📋 Lista de Projeto:
+### 📋 Lista de Projeto: 
 - Agenda do Festival do Vinho;
 - Blog Fashion;
+--- **Versão:**  <br>
+-- v0: Sem estilização (Original do Curso) <br>
+-- v1: Iniciando estilização com CSS <br>
 - Brown Bears <br>
 --- **Versão:**  <br>
+-- v0: Sem estilização (Original do Curso) <br>
 -- v1: Iniciando estilização com CSS <br>
 -- v2: Alterações no CSS
 - Search The Table;
@@ -24,6 +28,10 @@ Esse repositório é referente todos os projetos desenvolvido no curso relaciona
 <br/>
 
 > **Observação:** A lista de projetos foi inserida de forma aleatória e a maioria dos projetos a parte de customização/estilização foi feita sem auxílio do curso. 
+
+### 💻 Layout
+<a href=""> Clique aqui </a> para ver os layouts/telas de cada projeto 
+
 
 ## 📦 Ferramentas/Tecnologias Utilizadas:
 - VsCode;

@@ -1,9 +1,0 @@
-Projeto Codecademy: 
-
-- Fashion Blog
-Sua amiga Isa é uma blogueira de moda e ela pediu para você criar um novo site, a tempo para a Semana de Moda de Nova York!
-(Arquivo: original.html)
-
-
-Extra:
-Blog com CSS (Arquivo: index_blog.html).
