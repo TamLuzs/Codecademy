@@ -1,11 +1,12 @@
 # Projetos da Plataforma Codecademy
-![](https://user-images.githubusercontent.com/48417347/60915574-84cc7f80-a262-11e9-90f5-1aaf021a3f51.png)
-------------
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/48417347/60915574-84cc7f80-a262-11e9-90f5-1aaf021a3f51.png">
+</p>
 
-### Objetivo:
-Exibir de forma prática tudo o que foi aprendido durante o curso relacionado a desenvolvimento Web.
+## Introdução/Objetivo
+Esse repositório é referente todos os projetos desenvolvido no curso relacionando à programação Web.
 
-### Lista de Projeto:
+### 📋 Lista de Projeto:
 - Agenda do Festival do Vinho;
 - Blog Fashion;
 - Brown Bears <br>
@@ -20,13 +21,13 @@ Exibir de forma prática tudo o que foi aprendido durante o curso relacionado a 
 - Skillfair;
 - Typography Blog.
 
-**Observação:**<br>
-A lista de projetos foi inserida de forma aleatória.<br>
-A maioria dos projetos a parte do CSS foi feito sem auxílio do curso.
+<br/>
 
-### Ferramentas/Codificação Utilizadas:
-- HTML5 e CSS3;
-- VsCode.
+> **Observação:** A lista de projetos foi inserida de forma aleatória e a maioria dos projetos a parte de customização/estilização foi feita sem auxílio do curso. 
 
-### Base de Apoio:
+## 📦 Ferramentas/Tecnologias Utilizadas:
+- VsCode;
+- HTML5 e CSS3 / HTML e CSS.
+
+### 📕 Base de Apoio:
 Plataforma = https://www.codecademy.com/ <br>
