@@ -30,7 +30,7 @@ Esse repositório é referente todos os projetos desenvolvido no curso relaciona
 > **Observação:** A lista de projetos foi inserida de forma aleatória e a maioria dos projetos a parte de customização/estilização foi feita sem auxílio do curso. 
 
 ### 💻 Layout
-<a href=""> Clique aqui </a> para ver os layouts/telas de cada projeto 
+<a href="https://github.com/TamLuzs/Codecademy/blob/master/README-Projeto.md"> Clique aqui </a> para ver os layouts/telas de cada projeto 
 
 
 ## 📦 Ferramentas/Tecnologias Utilizadas:
